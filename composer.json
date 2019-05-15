@@ -1,0 +1,17 @@
+{
+  "name": "mahdiy/capfa",
+  "description": "Persian captcha",
+  "type": "library",
+  "require": {
+    "hekmatinasser/notowo": "*",
+    "illuminate/validation": "*"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "MahdiY",
+      "email": "ymd1376@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
